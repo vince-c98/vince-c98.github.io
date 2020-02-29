@@ -3,57 +3,62 @@ title: about
 layout: page
 ---
 
-此博客开通于2018/1/24，写些东西，记录生活，如此而已。
+此博客开通于2020/2/29，写些东西，记录生活，如此而已。
 
-我很喜欢Bob Dylan的一首歌，叫《forever young》。
+我很喜欢4 Non Blondes的一首歌，叫《what's up 》。
 
-	May God bless and keep you always
-	May your wishes all come true
-	May you always do for others
-	And let others do for you
-	May you build a ladder to the stars
-	And climb on every rung
-	May you stay forever young
-	Forever young, forever young
-	May you stay forever young.
-	May you grow up to be righteous
-	May you grow up to be true
-	May you always know the truth
-	And see the lights surrounding you
-	May you always be courageous
-	Stand upright and be strong
-	May you stay forever young
-	Forever young, forever young
-	May you stay forever young.
-	May your hands always be busy
-	May your feet always be swift
-	May you have a strong foundation
-	When the winds of changes shift
-	May your heart always be joyful
-	And may your song always be sung
-	May you stay forever young
-	Forever young, forever young
-	May you stay forever young.
+	Twenty-five years and my life is still
+	Trying to get up that great big hill of hope
+	For a destination
+	I realized quickly when I knew I should
+	That the world was made up of this brotherhood of man
+	For whatever that means
+	And so I cry sometimes
+	When I'm lying in bed Just to get it all out
+	What's in my head
+	And I, I am feeling a little peculiar
+	And so I wake in the morning
+	And I step outside
+	And I take a deep breath and I get real high
+	And I scream from the top of my lungs
+	What's going on?
+	And I say, hey yeah yeah, hey yeah yeah
+	I said hey, what's going on?
+	And I say, hey yeah yeah, hey yeah yeah
+	I said hey, what's going on?
+	Oh, oh oh
+	Oh, oh oh
+	And I try, oh my god do I try
+	I try all the time, in this institution
+	And I pray, oh my god do I pray
+	I pray every single day
+	For a revolution.
+	And so I cry sometimes
+	When I'm lying bed
+	Just to get it all out
+	What's in my head
+	And I, I am feeling a little peculiar
+	And so I wake in the morning
+	And I step outside
+	And I take a deep breath and I get real high
+	And I scream from the top of my lungs
+	What's going on?
+	And I say, hey hey hey hey
+	I said hey, what's going on?
+	And I say, hey hey hey hey
+	I said hey, what's going on?
+	And I say, hey hey hey hey
+	I said hey, what's going on?
+	And I say, hey hey hey hey
+	I said hey, what's going on?
+	Oh, oh oh oh
+	Twenty-five years and my life is still
+	Trying to get that great big hill of hope
+	For a destination
 
-我很喜欢《Rick And Morty》。
+我曾经很喜欢打篮球
 
-我很喜欢茨威格和毛姆的书。
-
-我很喜欢玩游戏并且经常浸入其中。
-
-我认为人生毫无意义，以此对抗生活。
-
-我爱打篮球，Tim Duncun是我的偶像。
-
-我现在的理想是做出一个游戏AI(NPC)，它会与某些人产生感情并伴其一生。
-
-我认为人类的仪式感毫无用处但我经常会自己制造仪式感。
-
-我认为The One也许是不存在的，我们永远也找不到自己的The One。
-
-我永远喜欢守望先锋，这个世界需要更多英雄。
-
-短发女生是宇宙最可爱的生物。
+我喜欢过的人都过得好吧
 
 
 

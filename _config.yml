@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 流苏狼人的笔记
+title: 流苏狼人
 subtitle:
-description: 嘻嘻
-author: 流苏狼人
+description: I scream from the top of my lungs
+author: vince
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss: false
 
 # Specify the date when the site was setup
-since: 2018
+since: 2020
 
 # icon between year and author @Footer
 authoricon: heart
@@ -216,8 +216,8 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-    GitHub: https://github.com/Logos23333
-    School: http://www.scut.edu.cn/new
+    GitHub: https://github.com/vince-c98
+    School: http://www.baidu.com/
 
 
 # Social Links Icons
